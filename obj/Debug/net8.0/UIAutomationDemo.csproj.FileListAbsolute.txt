@@ -1,0 +1,5 @@
+C:\Users\Prabhjyot\SlackAutomation2\UIAutomationDemo\obj\Debug\net8.0\UIAutomationDemo.csproj.AssemblyReference.cache
+C:\Users\Prabhjyot\SlackAutomation2\UIAutomationDemo\obj\Debug\net8.0\UIAutomationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prabhjyot\SlackAutomation2\UIAutomationDemo\obj\Debug\net8.0\UIAutomationDemo.AssemblyInfoInputs.cache
+C:\Users\Prabhjyot\SlackAutomation2\UIAutomationDemo\obj\Debug\net8.0\UIAutomationDemo.AssemblyInfo.cs
+C:\Users\Prabhjyot\SlackAutomation2\UIAutomationDemo\obj\Debug\net8.0\UIAutomationDemo.csproj.CoreCompileInputs.cache
